@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# IDE/build files
+.cache
+build
